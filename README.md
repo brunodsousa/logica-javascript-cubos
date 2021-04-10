@@ -6,6 +6,7 @@
 
 #### Módulo 1 de back-end do curso Programação do Zero da Cubos Academy.
 
+
 **Semana 1**: variáveis;
 
 **Semana 2**: condicionais, arrays e loops;
