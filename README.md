@@ -6,7 +6,7 @@
 
 #### Módulo 1 de back-end do curso Programação do Zero da Cubos Academy.
 
-**1.** Semana 1: variáveis;
-**2.** Semana 2: condicionais, arrays e loops;
-**3.** Semana 3: funções, métodos de strings e arrays;
-**4.** Semana 4: callbacks e outros métodos. 
+**Semana 1**: variáveis;
+**Semana 2**: condicionais, arrays e loops;
+**Semana 3**: funções, métodos de strings e arrays;
+**Semana 4**: callbacks e outros métodos. 
